@@ -1,0 +1,2 @@
+# RegzXD-SCRIPT-BOT
+RegzXD
